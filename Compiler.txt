@@ -1,0 +1,27 @@
+Q. Why would anyone want to build a compiler as a project?
+
+ A)      Developing a compiler as a project can be both tough and gratifying. Here are some explanations as to why developing a compiler can be an interesting project:
+
+A detailed understanding of programming languages, parsing methods, code generation, and optimization strategies is required when building a compiler. For those with an interest in computer science and software engineering, it offers a worthwhile educational opportunity.
+
+Solving complicated challenges in the areas of parsing, syntax analysis, semantic analysis, and code creation are all part of the process of creating a compiler. It can be rewarding and intellectually engaging to conquer these obstacles.
+
+Exploring the design and implementation of computer languages is possible by creating a compiler. You can play around with linguistic constructions and grammar.
+
+Q) How can i say that my compiler is better from other compilers?
+
+A) I must offer specific proof and show how my compiler excels in particular areas in order to assert that it is superior to other compilers. A general rule for making such a claim is provided below:
+
+Present performance information to back up your claim that my compiler produces code that runs quicker or uses less memory than competing compilers for a certain set of benchmarks or practical applications. To ensure objectivity, use accepted benchmarking tools and procedures.
+
+My compiler uses sophisticated code optimization techniques to generate code that is more effectively, and it provides examples and benchmarks to show these advantages. 
+
+My compiler is Object oriented. It has various modules and libraries which will help improve readability and maintability of the code.
+
+
+Q) Which language will we write our code in to make the compiler?
+A) C language will be used.
+
+
+Github Link----https://github.com/Aaryan-cod
+
